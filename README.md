@@ -1,2 +1,3 @@
 # awesome-product-management
-Curated list of Product Management Resources
+Curated list of Product Management Resources :seedling:
+
