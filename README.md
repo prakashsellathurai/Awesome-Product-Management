@@ -47,7 +47,7 @@ Curated list of Product Management Resources :seedling:
 - [Tools](#tools)
 - [Top Product Managers](#top-product-managers)
 - [Contributing to the list](#Contributing-to-the-list)
-- [License](#LICENSE)
+
 
 # General Product Management
 ## What Is Product Management?
@@ -606,5 +606,9 @@ and deliver behavior-based engagement every step of the way.
 
 ## Contributing-to-the-list
 - [See the guide](https://github.com/prakashsellathurai/awesome-product-management/blob/main/CONTRIBUTING.md)
-## LICENSE
-- [License](https://github.com/prakashsellathurai/awesome-product-management/blob/main/LICENSE)
+
+## References
+- https://github.com/dend/awesome-product-management
+- https://github.com/goabstract/Awesome-Design-Tools
+- https://github.com/sindresorhus/awesome#readme
+
