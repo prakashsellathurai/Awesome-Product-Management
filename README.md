@@ -1,5 +1,7 @@
-# awesome-product-management
-Curated list of Product Management Resources :seedling:
+![banner](/banner.png)
+
+Curated list of Product Management Resources :seedling: 🚀 🚀
+
 
 ## Content
 - [General  Product Management](#general-product-management)
