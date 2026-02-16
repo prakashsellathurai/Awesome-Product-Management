@@ -211,6 +211,7 @@ Curated list of Product Management Resources :seedling: 🚀 🚀
 - [ ] [Harvard Business School PM 101](https://sites.google.com/site/hbspm101/home) - Online resource repository from Harvard Business School PM 101 course (old site)
 - [ ] [Harvard Business School PM 101/102](https://www.hbspm101.com/) - Online resource repository from Harvard Business School Product Management 101 & 102 (PM 101/102). 
 - [ ] [Product Management Processes](https://www.productprocesses.co) - A knowledge base of product management processes, tools and templates.
+- [ ] [PM-Skills](https://github.com/product-on-purpose/pm-skills) - A library of 24 plug-and-play product management skills for AI agents, following the agentskills.io specification
 
 ### Vision & Strategy 
 - [ ]  [A 5-Step Process For Conducting User Research](https://www.smashingmagazine.com/2013/09/5-step-process-conducting-user-research/) - A 5-Step Process For Conducting User Research
