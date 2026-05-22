@@ -416,6 +416,7 @@ and deliver behavior-based engagement every step of the way.
 - [ ] [Product Management Weekly Tips](https://www.linkedin.com/learning/product-management-weekly-tips/welcome) - Free Product Management Weekly Tip Videos From Linkedin Learning
   - [ ] [AI Product Manager](https://eu.udacity.com/course/ai-product-manager-nanodegree--nd088) - Learn to develop AI products that deliver business value. Build skills that help you compete in the new AI-powered world.
 - [ ] [Digital Product Management: Modern Fundamentals](https://www.coursera.org/learn/uva-darden-digital-product-management) - This course is ideal for current product or general  managers interested in today's modern product management methods.
+- [TutorialSearch](https://tutorialsearch.io/browse/entrepreneurship/online-product) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 
 ## Online Blogs
 - [ ] [The Cranky Product Manager](http://crankypm.com/) - A blog on product management, product marketing, and the ugly side of software product development. As of April 2015, the author, Sue Raisty, no longer writes, but she has a large backlog of great posts.
