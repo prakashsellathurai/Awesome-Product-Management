@@ -595,6 +595,7 @@ and deliver behavior-based engagement every step of the way.
 - [ ] [Alexa](https://www.alexa.com/)
 - [ ] [Google AdWords](https://adwords.google.com/home/)
 - [ ] [Google Trends](https://trends.google.com/trends/)
+- [ ] [IdeaHunter](https://ideahunter.today/) - AI research for startup ideas, market evidence, and MVP scope
 - [ ] [SEMrush](https://www.semrush.com/)
 - [ ] [SimilarWeb](https://www.similarweb.com/)
 - [ ] [Statista](https://www.statista.com/)
