@@ -605,6 +605,7 @@ and deliver behavior-based engagement every step of the way.
 - [ ] [Opera VPN](https://www.opera.com/uk/computer/features/free-vpn)
 - [ ] [TunnelBear](https://www.tunnelbear.com/)
 - [ ] [Evan’s Awesome A/B Tools](http://www.evanmiller.org/ab-testing/)
+- [ ] [Tale](https://tale.dev) - Open-source project workspace for teams and AI agents to share project tasks, context, files, and reviewed deliverables.
 
 ## Contributing-to-the-list
 - [See the guide](https://github.com/prakashsellathurai/awesome-product-management/blob/main/CONTRIBUTING.md)
